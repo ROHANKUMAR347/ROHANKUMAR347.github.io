@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.06b94696.js",
+    "main.css": "/static/css/main.73afbf82.css",
+    "main.js": "/static/js/main.cd2f67ec.js",
     "static/js/453.bfd59f44.chunk.js": "/static/js/453.bfd59f44.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/rohani.jpg": "/static/media/rohani.f39c8c329286bc59a6ef.jpg",
+    "static/media/_src_assets_RohanKumarSethi-FullStackWebDeveloper-FPtz.pdf": "/static/media/_src_assets_RohanKumarSethi-FullStackWebDeveloper-FPtz.02787bbecf596c85ebd2.pdf",
+    "static/media/mudrahm.png": "/static/media/mudrahm.cdec0dbf7944b601a03d.png",
+    "static/media/adminp.png": "/static/media/adminp.50916bd8b84d880aa347.png",
+    "static/media/mudracountry.png": "/static/media/mudracountry.fefafae5d6536eb305cf.png",
+    "static/media/fbprofile.jpg": "/static/media/fbprofile.66966291552b4847aed4.jpg",
+    "static/media/fbhome.jpg": "/static/media/fbhome.3501779cc5fdcf03aa5b.jpg",
+    "static/media/fbvideo.jpg": "/static/media/fbvideo.c87b19d1df1a271e9fb6.jpg",
+    "static/media/fbfriend.JPG": "/static/media/fbfriend.d903913bbe21fa9e7aa3.JPG",
+    "static/media/fbmarcket.JPG": "/static/media/fbmarcket.9bff0f85805be2bbb98c.JPG",
+    "static/media/mudra payment.png": "/static/media/mudra payment.486291f8fc4166573efa.png",
+    "static/media/fblogin.jpg": "/static/media/fblogin.dce7149ebabbfc98c64c.jpg",
+    "static/media/signupm.png": "/static/media/signupm.b5d351ee16900e819b49.png",
+    "static/media/rohanlogo.png": "/static/media/rohanlogo.d80f8b055532ab13240e.png",
+    "static/media/call_icon.svg": "/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
+    "static/media/user_icon.svg": "/static/media/user_icon.5c0ce6f918770ec5f3046cdf624dfee9.svg",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.06b94696.js.map": "/static/js/main.06b94696.js.map",
+    "static/media/menu_close.svg": "/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
+    "static/media/theme_pattern.svg": "/static/media/theme_pattern.92278b3dbc4b903482e1d44b040aa98f.svg",
+    "static/media/location_icon.svg": "/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
+    "static/media/menu_open.svg": "/static/media/menu_open.f6a63a18e3c68d807e50b1037f3e3555.svg",
+    "main.73afbf82.css.map": "/static/css/main.73afbf82.css.map",
+    "main.cd2f67ec.js.map": "/static/js/main.cd2f67ec.js.map",
     "453.bfd59f44.chunk.js.map": "/static/js/453.bfd59f44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.06b94696.js"
+    "static/css/main.73afbf82.css",
+    "static/js/main.cd2f67ec.js"
   ]
 }
